@@ -1,0 +1,11 @@
+ruff
+mypy
+pytest
+python-dotenv
+httpx
+fastapi
+uvicorn[standard]
+claude-agent-sdk
+a2a-sdk[http-server]
+pyyaml
+textual

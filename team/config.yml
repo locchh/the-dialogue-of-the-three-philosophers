@@ -1,0 +1,36 @@
+# Team Configuration
+team:
+  name: "The Dialogue of the Three Philosophers"
+  description: "A team of AI agents representing Socrates, Plato, and Aristotle"
+
+# Agent configurations
+agents:
+  socrates:
+    host: localhost
+    port: 8001
+    description: "Socrates - The Socratic philosopher who challenges assumptions and seeks truth through questioning"
+    model: claude-sonnet-4-6
+  
+  plato:
+    host: localhost
+    port: 8002
+    description: "Plato - The Platonic philosopher who explores ideals, forms, and the nature of reality"
+    model: claude-sonnet-4-6
+  
+  aristotle:
+    host: localhost
+    port: 8003
+    description: "Aristotle - The Aristotelian philosopher who studies empirically and categorizes knowledge"
+    model: claude-sonnet-4-6
+
+# Global settings
+settings:
+  default_host: localhost
+  base_port: 8001
+  auto_increment_ports: true
+  # Default model for all agents (per-agent model overrides this)
+  # Available models:
+  #   claude-haiku-4-5-20251001   (fastest, lowest cost)
+  #   claude-sonnet-4-6           (balanced)
+  #   claude-opus-4-6             (most capable)
+  model: claude-haiku-4-5-20251001
