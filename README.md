@@ -2,6 +2,9 @@
 
 *The Conversation of Socrates, Plato, and Aristotle*
 
+*Are they really talking to each other?*
+
+*Are there any insights from their discussions?*
 
 ```
 team/
