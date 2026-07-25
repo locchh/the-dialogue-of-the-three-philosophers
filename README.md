@@ -48,15 +48,14 @@ team/
 
 ## RELEVANT DOCUMENTATION
 
-[Claude Memory](https://code.claude.com/docs/en/memory#claude-md-vs-auto-memory)
+[Claude Memory](https://code.claude.com/docs/en/memory#claude-md-vs-auto-memory) - CLAUDE.md vs auto memory
 
-[Skills Guide](https://code.claude.com/docs/en/skills)
+[Skills Guide](https://code.claude.com/docs/en/skills) - Extend Claude with skills
 
-[Hooks Guide](https://code.claude.com/docs/en/hooks-guide)
+[Hooks Guide](https://code.claude.com/docs/en/hooks-guide) - Automate actions with hooks
 
-[Prompt-Based Hooks](https://code.claude.com/docs/en/hooks-guide#prompt-based-hooks)
+[Prompt-Based Hooks](https://code.claude.com/docs/en/hooks-guide#prompt-based-hooks) - Automate actions with hooks
 
-[Agent-Based Hooks](https://code.claude.com/docs/en/hooks-guide#agent-based-hooks)
+[Agent-Based Hooks](https://code.claude.com/docs/en/hooks-guide#agent-based-hooks) - Agent-based hooks
 
-[Hooks Documentation](https://code.claude.com/docs/en/hooks)
-
+[Hooks Documentation](https://code.claude.com/docs/en/hooks) - Hooks reference
